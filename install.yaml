@@ -5,5 +5,4 @@ name: ddev-pm2
 project_files:
 - web-build/Dockerfile
 - commands/web/pm2
-- apache/proxy.conf
 - nginx_full/proxy.conf
