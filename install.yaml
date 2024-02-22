@@ -6,3 +6,4 @@ project_files:
 - web-build/Dockerfile
 - commands/web/pm2
 - nginx_full/proxy.conf
+- apache/proxy.conf
